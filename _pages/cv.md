@@ -9,32 +9,27 @@ redirect_from:
 
 {% include base_path %}
 
+You can find my most-recently completed CV here.
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Environmental Science and Engineering, Fudan University, 2011
+* M.S. in Environmental Science and Engineering, Fudan University, 2014
+* Ph.D. in Environmental Science and Engineering, California Institute of Technology, 2019
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2019.07 - 2020.07: Postdoc
+  * California Institute of Technology
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2020.07 - : Research Scientist
+  * California Institute of Technology
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python
+* Matlab
+* Labview
 
 Publications
 ======
@@ -54,6 +49,18 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Awards
 ======
-* Currently signed in to 43 different slack teams
+* Caltech GSC Teaching and Mentoring Award (2020.11)
+* Chinese government award for outstanding self-financed students abroad (2020.05)
+* CESF 2019 Student Travel Grant (2019.05)
+* Best Student Research Paper Award (3rd place) at Los Angeles Environmental Forum (2018.08)
+* IAC 2018 Student Travel Grant (2018.07)
+* CESASC Annual Scholarship Awards (2018.04)
+* Excellent Graduate Research Achievement in Shanghai (2015)
+* Stanback Fellowship (2014)
+* National Scholarship (2008 & 2012 & 2013)
+* Outstanding Graduates Awards of Shanghai (2011.06)
+* Tung OOCL Scholarship (2010.10)
+* Suntory International Group Scholarship (2009.10)
+
