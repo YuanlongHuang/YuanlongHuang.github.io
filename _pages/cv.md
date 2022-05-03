@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can find my most-recently completed CV here.
+You can find my most-recently completed CV [here](/files/CVofYH_20220503.pdf).
 
 Education
 ======
