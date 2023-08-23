@@ -9,22 +9,20 @@ redirect_from:
 
 {% include base_path %}
 
-You can find my most-recently completed CV [here](/files/CVofYH_20220503.pdf).
+My most recently completed CV [here](/files/CVofYH_20220503.pdf).
 
 Education
 ======
-* B.S. in Environmental Science and Engineering, Fudan University, 2011
-* M.S. in Environmental Science and Engineering, Fudan University, 2014
-* Ph.D. in Environmental Science and Engineering, California Institute of Technology, 2019
+* 2011, Fudan University, B.S. in Environmental Science and Engineering
+* 2014, Fudan University, M.S. in Environmental Science and Engineering
+* 2019, California Institute of Technology, Ph.D. in Environmental Science and Engineering
 
 Work experience
 ======
-* 2019.07 - 2020.07: Postdoc
-  * California Institute of Technology
+* 2019.07 - 2020.07: California Institute of Technology, Postdoc
+* 2020.07 - 2023.07: California Institute of Technology, Research Scientist
+* 2023.08 - now: Eastern Institute for Advanced Study, Assistant Professor
 
-* 2020.07 - : Research Scientist
-  * California Institute of Technology
-  
 Skills
 ======
 * Python
